@@ -1,2 +1,2 @@
 # CV
-https://igorgrodno.github.io/CV/
+https://igorgrodno.github.io/CV
